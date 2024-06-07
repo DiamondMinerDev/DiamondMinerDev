@@ -2,7 +2,6 @@
 - 👀 I’m interested in blockchain technology, cryptocurrency development, and decentralized applications.
 - 🌱 I’m currently learning advanced smart contract development and exploring Layer 2 solutions.
 - 💞️ I’m looking to collaborate on innovative blockchain projects, particularly those involving TON Coin and its ecosystem.
-- 📫 How to reach me: You can contact me via email at robert.smith@example.com or follow me on Twitter @DiamondMinerDev.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started mining cryptocurrencies using a homemade rig powered by renewable energy.
 
